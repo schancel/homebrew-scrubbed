@@ -1,10 +1,10 @@
 # Homebrew tap for scrubbed
 
-Install [scrubbed](https://github.com/schancel/scrubbed) on Apple Silicon:
+Install [scrubbed](https://github.com/schancel/scrubbed) on Apple Silicon
+running macOS 15 (Sequoia) or later:
 
 ```sh
-brew tap schancel/scrubbed
-brew install scrubbed
+brew install schancel/scrubbed/scrubbed
 ```
 
 The formula installs the checksum-pinned binary from the matching scrubbed
